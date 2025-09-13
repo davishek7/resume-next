@@ -1,0 +1,26 @@
+{
+  "first_name": "Avishek",
+  "last_name": "Das",
+  "profile_picture": "",
+  "contact": {
+    "phone": "+91 7864047589",
+    "email": "davishek7@gmail.com"
+  },
+  "socials": {
+    "github": "https://github.com/davishek7/",
+    "linkedin": "https://www.linkedin.com/in/avishek-das-6b9692357/",
+    "twitter": "https://x.com/davishek7"
+  },
+  "address": {
+    "address_line_one": "Mejia",
+    "district": "Bankura",
+    "state": "West Bengal",
+    "country_code": "IN",
+    "pin_code": "722143"
+  },
+  "about": [
+    "Enthusiastic and dedicated Full-Stack Developer with hands-on experience in Python-based frameworks such as Django, Flask, FastAPI, and Django REST Framework.",
+    "Skilled in building RESTful APIs, scalable server-side logic, and interactive frontends using JavaScript and React.",
+    "Proficient with databases including MySQL, PostgreSQL, and MongoDB, and currently expanding expertise by learning PHP and Laravel."
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "position": "Associate Software Developer",
+    "company": "Vyrazu Labs Pvt. Ltd.",
+    "achievements": [
+      "Worked as a Backend Developer on the OnlineTradingCampus platform, focusing on performance optimization, data consistency, and feature development.",
+      "Accelerated backend development using Django and Django REST Framework (DRF), enabling faster deployment of product features.",
+      "Resolved data integrity issues by identifying and correcting badly formatted entries in a MySQL database.",
+      "Designed and implemented new REST API endpoints to support app upgrades and improve user functionality.",
+      "Followed Gitflow workflow for efficient version control and collaborative development.",
+      "Technologies Used: Django, Django REST Framework(DRF), MySQL, Git (Gitflow)"
+    ],
+    "duration": "September 2021 - June 2022"
+  }
+]

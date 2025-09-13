@@ -1,0 +1,92 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "Python",
+      "imageUrl": "https://cdn.simpleicons.org/python"
+    },
+    {
+      "id": 2,
+      "name": "PHP",
+      "imageUrl": "https://cdn.simpleicons.org/php"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "imageUrl": "https://cdn.simpleicons.org/javascript"
+    },
+    {
+      "id": 4,
+      "name": "Django",
+      "imageUrl": "https://cdn.simpleicons.org/django"
+    },
+    {
+      "id": 5,
+      "name": "FastAPI",
+      "imageUrl": "https://cdn.simpleicons.org/fastapi"
+    },
+    {
+      "id": 6,
+      "name": "Flask",
+      "imageUrl": "https://cdn.simpleicons.org/flask"
+    },
+    {
+      "id": 7,
+      "name": "Laravel",
+      "imageUrl": "https://cdn.simpleicons.org/laravel"
+    },
+    {
+      "id": 8,
+      "name": "React",
+      "imageUrl": "https://cdn.simpleicons.org/react"
+    },
+    {
+      "id": 9,
+      "name": "Next",
+      "imageUrl": "https://cdn.simpleicons.org/nextdotjs"
+    },
+    {
+      "id": 10,
+      "name": "MySQL",
+      "imageUrl": "https://cdn.simpleicons.org/mysql"
+    },
+    {
+      "id": 11,
+      "name": "PostgreSQL",
+      "imageUrl": "https://cdn.simpleicons.org/postgresql"
+    },
+    {
+      "id": 12,
+      "name": "MongoDB",
+      "imageUrl": "https://cdn.simpleicons.org/mongodb"
+    },
+    {
+      "id": 13,
+      "name": "Git",
+      "imageUrl": "https://cdn.simpleicons.org/git"
+    },
+    {
+      "id": 14,
+      "name": "Linux",
+      "imageUrl": "https://cdn.simpleicons.org/linux"
+    },
+    {
+      "id": 15,
+      "name": "HTML5",
+      "imageUrl": "https://cdn.simpleicons.org/html5"
+    },
+    {
+      "id": 16,
+      "name": "Bootstrap",
+      "imageUrl": "https://cdn.simpleicons.org/bootstrap"
+    }
+  ],
+  "workflows": [
+    "API Design & Documentation",
+    "Database Modeling & Migrations",
+    "Authentication & Authorization",
+    "Automated Testing & CI/CD",
+    "Monitoring, Logging & Performance Tuning",
+    "Security Best Practices"
+  ]
+}
