@@ -3,11 +3,12 @@
     "profilePicture": "/assets/profile.jpg",
     "navItems": [
         "about",
-        "experiences",
-        "educations",
         "skills",
-        "interests",
+        "experiences",
+        "portfolio",
+        "educations",
         "certificates",
+        "interests",
         "contact"
     ]
 }

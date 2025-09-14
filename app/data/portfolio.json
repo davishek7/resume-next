@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Kankana's Makeover",
+        "description": "Full-stack portfolio system for Kankana. The public portfolio showcases works and has a contact form. The admin dashboard manages projects and bookings. Data and media are powered by a FastAPI backend with MongoDB and Cloudinary.",
+        "tech_stack": [
+            {
+                "name": "Next.js (Frontend)",
+                "imageUrl": "https://cdn.simpleicons.org/nextdotjs"
+            },
+            {
+                "name": "React (Dashboard)",
+                "imageUrl": "https://cdn.simpleicons.org/react"
+            },
+            {
+                "name": "FastAPI (Python, Backend)",
+                "imageUrl": "https://cdn.simpleicons.org/fastapi"
+            },
+            {
+                "name": "MongoDB",
+                "imageUrl": "https://cdn.simpleicons.org/mongodb"
+            },
+            {
+                "name": "Cloudinary",
+                "imageUrl": "https://cdn.simpleicons.org/cloudinary"
+            },
+            {
+                "name": "Bootstrap",
+                "imageUrl": "https://cdn.simpleicons.org/bootstrap"
+            }
+        ],
+        "github": {
+            "frontend": "https://github.com/davishek7/kankana-frontend-next",
+            "dashboard": "https://github.com/davishek7/kankana-webapp",
+            "backend": "https://github.com/davishek7/gallery-booking-invoice-api"
+        },
+        "hosted": {
+            "frontend": "https://kankana.vercel.app"
+        },
+        "status": "private"
+    },
+    {
+        "title": "Avishek Blog & Dashboard",
+        "description": "A blogging platform with a public blog app and a private admin dashboard. The public app allows readers to explore posts and contact the author. The admin dashboard supports managing blogs and contact messages, with trash/restore and permanent delete features. Powered by Next.js, React, FastAPI, and MongoDB.",
+        "tech_stack": [
+            {
+                "name": "Next.js (Frontend)",
+                "imageUrl": "https://cdn.simpleicons.org/nextdotjs"
+            },
+            {
+                "name": "React (Admin Dashboard)",
+                "imageUrl": "https://cdn.simpleicons.org/react"
+            },
+            {
+                "name": "FastAPI (Python, Backend)",
+                "imageUrl": "https://cdn.simpleicons.org/fastapi"
+            },
+            {
+                "name": "MongoDB",
+                "imageUrl": "https://cdn.simpleicons.org/mongodb"
+            },
+            {
+                "name": "Bootstrap",
+                "imageUrl": "https://cdn.simpleicons.org/bootstrap"
+            }
+        ],
+        "github": {
+            "frontend": "https://github.com/davishek7/blog-app-next",
+            "dashboard": "https://github.com/davishek7/react-dashboard",
+            "backend": "https://github.com/davishek7/fastapi-blog-dashboard"
+        },
+        "hosted": {
+            "frontend": "https://avishek-blog.vercel.app"
+        },
+        "status": "private",
+        "note": "Public blog available, but admin dashboard and backend are private due to sensitive data."
+    },
+    {
+        "title": "Django Instagram Social Clone",
+        "description": "A social media clone where users can create and update posts, upload multiple images in stories, and view their activity log.",
+        "tech_stack": [
+            {
+                "name": "Django (Python)",
+                "imageUrl": "https://cdn.simpleicons.org/django"
+            },
+            {
+                "name": "PostgreSQL",
+                "imageUrl": "https://cdn.simpleicons.org/postgresql"
+            },
+            {
+                "name": "Bootstrap",
+                "imageUrl": "https://cdn.simpleicons.org/bootstrap"
+            }
+        ],
+        "github": {
+            "backend": "https://github.com/davishek7/django-social-insta-clone"
+        },
+        "status": "public"
+    }
+]
