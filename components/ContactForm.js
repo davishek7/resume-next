@@ -1,5 +1,4 @@
 "use client";
-import { API_URL } from "@/constants/api.constant";
 import { useState } from "react";
 import { toast } from "react-toastify";
 
@@ -24,16 +23,17 @@ export default function ContactForm() {
       const formData = new FormData(e.target);
       const postData = Object.fromEntries(formData.entries());
 
-      const res = await fetch(`${API_URL}/contact/`, {
+      const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(postData),
       });
-      const resData = await res.json();
-      if (resData.status !== 201) {
-        toast.error(resData.message);
+      if (res.status !== 201) {
+        const errorData = await res.json();
+        toast.error(errorData.error);
         return;
       }
+      const resData = await res.json();
       toast.success(resData.message);
       e.target.reset();
       setName("");
