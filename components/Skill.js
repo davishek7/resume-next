@@ -5,7 +5,7 @@ export default function Skill({ imageUrl, name }) {
         className="justify-content-center d-flex align-items-center rounded-circle border bg-white"
         style={{ width: "48px", height: "48px" }}
       >
-        <img src={imageUrl} alt={name} width="36" />
+        <img src={imageUrl} alt={name} width="36"/>
       </div>
     </li>
   );

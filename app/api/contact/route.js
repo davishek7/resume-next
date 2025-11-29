@@ -11,7 +11,6 @@ export async function POST(req) {
 
     return Response.json({message: "Message sent successfully."}, {status: 201 });
   } catch (error) {
-    console.error("POST /messages error:", error);
     return Response.json({ error: error.message }, { status: 500 });
   }
 }

@@ -1,7 +1,7 @@
 [
     {
         "title": "Kankana's Makeover",
-        "description": "Full-stack portfolio system for Kankana. The public portfolio showcases works and has a contact form. The admin dashboard manages projects and bookings. Data and media are powered by a FastAPI backend with MongoDB and Cloudinary.",
+        "description": "Full-stack portfolio system for Kankana. The public portfolio showcases works and has a contact form. The admin dashboard manages portfolio images and bookings. Data and media are powered by a FastAPI backend with MongoDB, Cloudinary and Cloudflare R2.",
         "tech_stack": [
             {
                 "name": "Next.js (Frontend)",
@@ -22,6 +22,10 @@
             {
                 "name": "Cloudinary",
                 "imageUrl": "https://cdn.simpleicons.org/cloudinary"
+            },
+            {
+                "name": "Cloudflare R2",
+                "imageUrl": "https://cdn.simpleicons.org/cloudflare"
             },
             {
                 "name": "Bootstrap",
