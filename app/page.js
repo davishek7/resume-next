@@ -37,6 +37,13 @@ export default function Home() {
           </Link>
           <Link
             className="social-icon text-decoration-none"
+            href={data.socials.facebook}
+            target="_blank"
+          >
+            <i className="fab fa-facebook"></i>
+          </Link>
+          <Link
+            className="social-icon text-decoration-none"
             href={data.socials.twitter}
             target="_blank"
           >
